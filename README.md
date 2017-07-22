@@ -29,17 +29,17 @@ INTERFACE:-
  FILE STREAMMING:- 
  File Streamming programming, Start in sequence,
  
- 1. BYTE STREAMMING,
+1. BYTE STREAMMING,
  
- 1.1-ByteFileWrite.java
+  1.1-ByteFileWrite.java
  
- 1.2-ByteFileRead.java
+  1.2-ByteFileRead.java
  
- 1.3-ReadWriteByteFile.java
+  1.3-ReadWriteByteFile.java
  
- 2. CHARACTER STREAMMING,
+2. CHARACTER STREAMMING,
  
- 2.1-CharWrtieFile.java 
+  2.1-CharWrtieFile.java 
  
- 2.2-CharReadFile.java 
+  2.2-CharReadFile.java 
  
