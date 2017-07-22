@@ -1,7 +1,7 @@
 # CORE-JAVA-PROGRAMMING
 
 ABSTRACT CLASS:-
- Abstracton programming Start with besics,
+ Abstracton programming Start in sequence,
  
  1-AbsDemo.java
 
@@ -13,7 +13,7 @@ ABSTRACT CLASS:-
  
  
 INTERFACE:- 
- Interface programming Start with besics,
+ Interface programming Start in sequence,
  
  1-InterEx.java
  
@@ -24,3 +24,22 @@ INTERFACE:-
  4-InterImp3.java 
  
  5-ICDemo.java 
+ 
+ 
+ FILE STREAMMING:- 
+ File Streamming programming, Start in sequence,
+ 
+ 1. BYTE STREAMMING,
+ 
+ 1.1-ByteFileWrite.java
+ 
+ 1.2-ByteFileRead.java
+ 
+ 1.3-ReadWriteByteFile.java
+ 
+ 2. CHARACTER STREAMMING,
+ 
+ 2.1-CharWrtieFile.java 
+ 
+ 2.2-CharReadFile.java 
+ 
