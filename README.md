@@ -1,7 +1,7 @@
 # CORE-JAVA-PROGRAMMING
 
 ABSTRACT CLASS:-
- Abstracton programmng Start with besics,
+ Abstracton programming Start with besics,
  
  1-AbsDemo.java
 
@@ -13,7 +13,7 @@ ABSTRACT CLASS:-
  
  
 INTERFACE:- 
- Interface programmng Start with besics,
+ Interface programming Start with besics,
  
  1-InterEx.java
  
