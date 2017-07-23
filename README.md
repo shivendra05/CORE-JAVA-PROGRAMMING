@@ -1,7 +1,9 @@
 # CORE-JAVA-PROGRAMMING:- 
-All Programs are Successfuly Running on jdk-1.7, using command Prompt
+All Programs are Successfuly Running on jdk-1.7, using command Prompt. Navegate to your Program directory, then Compile and Run the Program
   
-  javac   className.java
+  >javac   className.java
+  
+  >java   className
 
 ABSTRACT CLASS:-
  Abstracton programming Start in sequence,
