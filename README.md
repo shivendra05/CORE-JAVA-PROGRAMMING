@@ -1,4 +1,7 @@
-# CORE-JAVA-PROGRAMMING
+# CORE-JAVA-PROGRAMMING:- 
+All Programs are Successfuly Running on jdk-1.7, using command Prompt
+  
+  javac <className>.java
 
 ABSTRACT CLASS:-
  Abstracton programming Start in sequence,
@@ -42,4 +45,13 @@ INTERFACE:-
   2.1-CharWrtieFile.java 
  
   2.2-CharReadFile.java 
+  
+  
+ 3. SERIALIZATION,
+    >javac -d . SerialStudent.java
  
+1-SerialStudent.java 
+  
+2-SerialWrite.java 
+
+3-SerialRead.java
