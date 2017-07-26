@@ -1,11 +1,11 @@
 /*
-Abstact class contains 0 to 100% abstraction. So
+Abstact class provides 0 to 100% abstraction. So we can
 
- Declare a method with abstract.
- define a method.
- keep null body mehtod
+ 1. Declare a method with abstract.
+ 2. define a method.
+ 3. keep null body mehtod
 
-A method declaration without abstract keyword, is not allowed if class is abstract.
+A method declaration without abstract keyword, is not allowed in abstract class.
 */
 abstract class AbsDemo
 {
@@ -14,18 +14,18 @@ abstract class AbsDemo
 	//veriable initialization 
 	int b=10;
 
-	//method declration without abstract keyword otherwise will show, compile time error."InValid Declaration"  
+	//method declration without abstract keyword, compile time error."InValid Declaration"  
 	//void m1();
 
 	//method declration with abstract keyword."Valid Declartion"   
 	abstract void m2();
 
-	//method defination, So dont need abstract keyword. "Valid Declartion"  
+	//method defination, with Body. Dont need abstract keyword. "Valid Declartion"  
 	void m3(){
 		System.out.println("Hi I am m3");
 	}
 
-	//method defination, So dont need abstract keyword, with null body method,. "Valid Declartion" 
+	//method defination, with null body method. Dont need abstract keyword. "Valid Declartion" 
 	void m4(){
 
 	}
