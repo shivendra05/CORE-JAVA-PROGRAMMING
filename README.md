@@ -1,5 +1,5 @@
 # CORE-JAVA-PROGRAMMING:- 
-All Programs are Successfuly Running on jdk-1.7, using command Prompt. Navegate to your Program directory, then Compile and Run the Program
+All Programs are Successfuly Executed on jdk-1.7, using command Prompt. Navegate to your Program directory, then Compile and Run the Program
   
   >javac   className.java
   
