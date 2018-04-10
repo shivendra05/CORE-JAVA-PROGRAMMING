@@ -1,1 +1,17 @@
 
+Java Programming provides two types of Class
+1. abstract class
+2. concreate class 
+
+Concreate methods are fully defined methods. Where as abstract method doesn't have any body. 
+Abstact methods, are just declaretion of methods(undefined method) preceeded by abstract keyword.
+
+Concreate classs caotains fuly  defined method.
+A class which is having atleast one method with abstract keyword(undefined method), known as abstract class and that class starts with abstract keyword
+
+abstract class can contains, both concreate and abstract method.
+
+Points need to remember:
+1. We can create obbject of Abstract class directly.But we can create object of abstract class with its implimentation class(derived sub class).
+2. abstract method cant be final, static and private. Because abstract class conatains abstract method and that must be overriden, manny times called throughout the prog. 
+3. if derived class is  not implimenting all abstract method present in base class, derived class must be preceeded by abstract keyword as well.
