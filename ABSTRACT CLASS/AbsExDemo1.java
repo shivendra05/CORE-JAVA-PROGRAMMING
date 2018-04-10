@@ -21,7 +21,7 @@ abstract class AbsExDemo
 abstract class AbsExDemo1 extends AbsExDemo{
 	 /*
 		Here, Two important things,
-		1- Either define all superclass abstract method, or
+		1- Either define all superclass inherited abstract methods, or
 		2- Subclass should start with abstract keyword.
 		3- Its not mendatory to Override null body method.
 	*/
