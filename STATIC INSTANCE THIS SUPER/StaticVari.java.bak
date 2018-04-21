@@ -1,4 +1,0 @@
-class  StaticVari
-{
-	static int a=20;
-}
